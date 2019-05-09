@@ -51,6 +51,8 @@ or download the Python Wheel imageai-2.0.2-py3-none-any.whl and run the python i
 Pre-trained coco model -- [RetinaNet](https://github-production-release-asset-2e65be.s3.amazonaws.com/125932201/e7ab678c-6146-11e8-85cc-26bc1cd06ab0?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20190509%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190509T080531Z&X-Amz-Expires=300&X-Amz-Signature=15c27bead0ca5 )
 
 Pre-trained YOLOV3 Model --[YOLOv3](https://github.com/OlafenwaMoses/ImageAI/releases/download/1.0/yolo.h5)
+
+
 References-
 https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/VIDEO.md#customvideodetection
 https://pjreddie.com/darknet/yolo/
