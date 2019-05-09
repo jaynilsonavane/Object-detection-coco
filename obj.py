@@ -4,9 +4,16 @@ import os
 execution_path = os.getcwd()
 
 detector = VideoObjectDetection()
+
+#COCO MODEL
 detector.setModelTypeAsRetinaNet()
 detector.setModelPath( os.path.join(execution_path , "resnet50_coco_best_v2.0.1.h5"))
 detector.loadModel()
+
+#YOLO MODEL
+#detector.setModelTypeAsYOLOv3()
+#detector.setModelPath( os.path.join(execution_path , "yolo.h5"))
+#detector.loadModel()
 
 #custom_objects = detector.CustomObjects(person=True, bicycle=True, motorcycle=True, car=True, bus=True)
 
