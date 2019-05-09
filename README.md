@@ -48,6 +48,7 @@ or download the Python Wheel imageai-2.0.2-py3-none-any.whl and run the python i
 
     pip3 install C:\User\MyUser\Downloads\imageai-2.0.2-py3-none-any.whl 
 
+Pre-trained coco model -- RetinaNet
 References-
 https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/VIDEO.md#customvideodetection
 https://pjreddie.com/darknet/yolo/
