@@ -47,3 +47,7 @@ To install ImageAI, run the python installation instruction below in the command
 or download the Python Wheel imageai-2.0.2-py3-none-any.whl and run the python installation instruction in the command line to the path of the file like the one below: 
 
     pip3 install C:\User\MyUser\Downloads\imageai-2.0.2-py3-none-any.whl 
+
+References-
+https://github.com/OlafenwaMoses/ImageAI/blob/master/imageai/Detection/VIDEO.md#customvideodetection
+https://pjreddie.com/darknet/yolo/
